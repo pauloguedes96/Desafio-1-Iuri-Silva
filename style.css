@@ -141,6 +141,7 @@
     background-color: var(--branco1);
     color: var(--cinza1);
     font-weight: 500;
+    cursor: pointer;
 }
 
 .art h2{
